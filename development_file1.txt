@@ -1,5 +1,0 @@
-Branching allows you to create separate lines of development within a repository. Each branch 
-can have its own commits, enabling you to work on features or fixes independently before 
-merging them back into the main codebase. 
-
-This is development 1st file.
